@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
     name='svg_extrude',
-    packages=['svg_extrude', 'svg_extrude.model', 'svg_extrude.scad', 'svg_extrude.util', 'svg_extrude.css'],
+    packages=['svg_extrude', 'svg_extrude.model', 'svg_extrude.scad', 'svg_extrude.util'],
     version='0.1.0',
     license='gpl-3.0',
     description='A Python SVG parser and drawing module',
